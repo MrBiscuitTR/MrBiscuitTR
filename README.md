@@ -14,7 +14,7 @@ Coming from a solid foundation in full-stack web dev – think React with TypeSc
 - Graduated from Istanbul Saint-Joseph French High School
 
 ## Active Focus
-I am currently focused on my latest large project, P.O.T.A.T.O, which is a private, local, and multi-purpose AI tool operatign agent, that is vocal, graphic, and anything else you need it to be. Under active develoment and not currenly ready for public use, but I give you my word it is amazing.
+I am currently focused on my latest large project: P.O.T.A.T.O (Practical Omnipurpose Technical AI Tool Operator) — a modular, locally-run voice AI assistant emphasizing strong privacy and security. It supports multimodal inputs (voice, images, code, PDFs, folders), integrates SearX for web search, offers optional TOR routing, and runs efficiently on high-end hardware (24+ GB VRAM recommended). Designed for extensibility, the project is under active, ongoing development. it is a multi-purpose agent that comes with a web GUI, and has enhanced capabilities, all configurable by editing a file, or using the gui. The code has no built-in telemetry and focuses on privacy, but it is very hard to guarantee data privacy for the python modules or other software used within the code. Offline mode is fully supported, but expect some tools (Web related ones and all other online tools) to be disabled, and reduced quality as well as capabilities.
 
 ## Contact
   You can contact me using the form on [my site](https://cagancalidag.com) or [by mail](mailto:cagan.calidag@universite-paris-saclay.fr) – always open to collab on cool ideas!
